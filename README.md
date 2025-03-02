@@ -494,6 +494,7 @@ Here are a few examples of Ruby Standard-compliant teams & projects:
 * [Collective Idea](https://collectiveidea.com/)
 * [Culture Foundry](https://www.culturefoundry.com/)
 * [Datadog](https://www.datadoghq.com/)
+* [DocSpring](https://docspring.com/)
 * [Donut](https://www.donut.com/)
 * [Elevate Labs](https://elevatelabs.com)
 * [Envoy](https://www.envoy.com)
